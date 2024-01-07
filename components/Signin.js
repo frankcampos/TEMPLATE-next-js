@@ -9,7 +9,7 @@ function Signin() {
       style={{
         height: '90vh',
         padding: '30px',
-        maxWidth: '400px',
+        maxWidth: '350px',
         margin: '0 auto',
       }}
     >
